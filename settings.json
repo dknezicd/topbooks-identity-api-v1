@@ -7,7 +7,7 @@
 	"<org>": {
 		"<env>": {
 			"clientId": "<clientId>",
-			"clientSecret": "<clientSecret>"
+			"clientSecret": "<clientSecret>",
 			"monitoringClientId": "<clientId>",
 			"monitoringClientSecret": "<clientSecret>"
 		}
